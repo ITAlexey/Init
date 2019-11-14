@@ -1,0 +1,3 @@
+#!/bin/bash
+#this script sorts processes by memory usage
+ps aux | sort -nk 4 | head -n 10

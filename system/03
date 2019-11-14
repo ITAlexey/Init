@@ -1,0 +1,3 @@
+sudo vim /etc/hosts
+#update the lines that reads your old-host-name to a new one
+sudo reboot

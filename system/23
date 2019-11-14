@@ -1,0 +1,2 @@
+Graphical: Use login and password when it is asked
+SSh: ssh <user>@<ip> then input password
